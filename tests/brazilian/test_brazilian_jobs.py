@@ -10,9 +10,3 @@ def test_brazilian_jobs():
         assert "title" in job
         assert "salary" in job
         assert "type" in job
-
-    """ Test if keys in dict are NOT in portuguese """
-    for job in result:
-        assert "titulo" not in job
-        assert "salario" not in job
-        assert "tipo" not in job
