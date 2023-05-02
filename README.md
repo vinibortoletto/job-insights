@@ -1,12 +1,7 @@
-<div align='center'>
-  <img width="180px" alt="job logo" src="https://cdn-icons-png.flaticon.com/512/3281/3281289.png" />
-  <h1>Job Insights</h1>
-  <p>
-    Aplicação de análises a partir de um conjunto de dados sobre empregos.
-  </p>
-</div>
+# Job Insights
 
-<br /><hr /><br />
+## Sobre
+Aplicação de análises a partir de um conjunto de dados sobre empregos.
 
 ## 🖥️ Tecnologias
 Este projeto foi desenvolvido usando as seguintes tecnologias:
